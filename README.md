@@ -1,7 +1,7 @@
 # Client Resources
 A list of resources to make / learn how to make a Minecraft Client (or generaly learn something about java / kotlin / whatever)
 
-<br>
+
 # List
 (Channel) Icon | Description                                          | Version | Type | IDE     | Link  
 -----|------------------------------------------------------|---------|------|---------|---------
