@@ -3,7 +3,7 @@ A list of resources to make / learn how to make a Minecraft Client (or generaly 
 
 
 # Contribute
-If you want to add a channel / Video / Playlist / Link / Whatever, add this line of markdown at the end of the table / readme file and replace everything:<br> `![](ICON_URL) <br>User_Name | Description | Version | Type | IDE | Language | Link`
+If you want to add a channel / Video / Playlist / Link / Whatever, add this line of markdown at the end of the table / readme file and replace everything:<br> `![](ICON_URL) <br>User_Name | Description | Version | Type | IDE | Language | [WEBSITE / Type](Link)`
 <br><br>
 
 # List
